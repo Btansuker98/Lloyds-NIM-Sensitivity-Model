@@ -15,16 +15,19 @@ The model is based on Lloyds Bank’s historical financial data and simulates in
 
 ### Base NIM Trend
 Shows the evolution of Lloyds Bank's reported Net Interest Margin over time.
+<img width="837" height="353" alt="nim_trend" src="https://github.com/user-attachments/assets/834c0477-ed30-45ca-af0f-da7170326dfd" />
 
 ---
 
 ### ΔNIM Sensitivity (+100bps)
 Illustrates how NIM reacts to a +100bps interest rate shock.
+<img width="849" height="368" alt="delta_nim" src="https://github.com/user-attachments/assets/6e967e67-5397-42cf-bffe-ed8e07d9efd9" />
 
 ---
 
 ### ΔNII Sensitivity (+100bps)
 Shows the impact of interest rate increases on Net Interest Income.
+<img width="829" height="377" alt="delta_nii" src="https://github.com/user-attachments/assets/2280f7fc-ee44-48db-94d1-d128002679ce" />
 
 ---
 
